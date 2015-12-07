@@ -11,7 +11,8 @@ using [sinatra-activerecord](https://github.com/janko-m/sinatra-activerecord)
 - [RSpec](https://github.com/rspec/rspec) for unit testing
 - [Capybara](https://github.com/jnicklas/capybara) for acceptance testing
 - [Pry](https://github.com/pry/pry) for debugging
-- [Foundation 6](http://foundation.zurb.com/sites.html) for styling
+- [Foundation 6](http://foundation.zurb.com/sites.html) with flex grid for styling
+- [lodash v3.10.1](https://lodash.com/) for easier javascripting.
 
 ## Configuring Your Database
 
